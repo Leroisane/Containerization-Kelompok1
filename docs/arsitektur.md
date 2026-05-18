@@ -20,7 +20,7 @@
 - postgres-data
 - minio-data
 
-## Nama Service (wajib dipakai persis seperti ini)
+## Nama Service
 - postgres
 - minio
 - app
